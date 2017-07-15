@@ -1,5 +1,8 @@
 dfgh
-sd
+sd() {
+	asdasd
+	asd1
+}
 sdfs3ss
 sdf
 sd
